@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there👋 I'm Bharath Kumar
 🔭 I’m currently working on Full-stack web development ,Python, Blockchain Dev <br>👯 I’m looking to collaborate on Web related  and python related projects<br>🌱 I’m currently Learning ReactJs,Nodejs<br>💬 Ask me about DSA ,I love to do Competitive Programming  <br> 
 
 
